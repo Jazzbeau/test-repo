@@ -1,0 +1,1 @@
+some text for new_2_brnach_file.txt
