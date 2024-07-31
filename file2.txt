@@ -1,1 +1,4 @@
 some text for main
+Merge conflict resolved:
+Text for new_2
+
